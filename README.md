@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="01-hero-dark.png" alt="Pithecus — Your Private AI Brain" width="100%" />
+  <img src="still-1.jpg" alt="Pithecus — Your life as a living neural map" width="100%" />
 </div>
 
 <h1 align="center">Pithecus — Your Private AI Brain</h1>
@@ -30,24 +30,26 @@ Pithecus is a **local-first AI second brain** for Mac and PC. It learns from eve
 
 ---
 
-## Screenshots
+## See it think
+
+<p align="center"><em>Watch memory become action — a brain builds itself, lights up while answering, and stays private the whole time.</em></p>
 
 <table>
   <tr>
-    <td><img src="02-chat-with-brain.png" alt="Chat with your brain" /></td>
-    <td><img src="04-daily-briefing.png" alt="Daily briefing" /></td>
+    <td><img src="still-1.jpg" alt="Your life as a living neural map" /></td>
+    <td><img src="still-2.jpg" alt="Ask anything — watch it recall in real time" /></td>
   </tr>
   <tr>
-    <td align="center"><em>Chat with your brain</em></td>
-    <td align="center"><em>Daily briefing</em></td>
+    <td align="center"><em>Your life as a living neural map</em></td>
+    <td align="center"><em>Ask anything — watch it recall in real time</em></td>
   </tr>
   <tr>
-    <td><img src="06-boot-waking.png" alt="Waking your brain" /></td>
-    <td><img src="07-setup-screen.png" alt="Setup screen" /></td>
+    <td><img src="still-3.jpg" alt="Workspaces keep every part of life separate" /></td>
+    <td><img src="still-4.jpg" alt="A daily briefing that knows your deadlines" /></td>
   </tr>
   <tr>
-    <td align="center"><em>Waking your brain</em></td>
-    <td align="center"><em>Easy setup</em></td>
+    <td align="center"><em>Workspaces keep every part of life separate</em></td>
+    <td align="center"><em>A daily briefing that knows your deadlines</em></td>
   </tr>
 </table>
 
@@ -56,7 +58,7 @@ Pithecus is a **local-first AI second brain** for Mac and PC. It learns from eve
 ## Features
 
 - **Persistent memory** — remembers people, businesses, projects, health, goals, and relationships across every conversation
-- **Knowledge graph** — facts stored as a visual graph that grows as you talk
+- **Knowledge graph** — facts stored as a visual 3D brain that grows as you talk
 - **Agentic Intelligence** — proposes plans, drafts tasks, and summarises your week — all requiring your explicit approval
 - **Workspace Momentum Score** — a live 0–100 score showing traction across your active workspaces
 - **Wake-up Intelligence** — smart summary of what changed while you were away, with actionable suggestions
